@@ -1,1 +1,1 @@
-
+The Hospital Management System (HMS) is a backend application built using Java, Spring Boot, and MySQL to efficiently manage hospital operations. It enables hospitals to store and manage patient records, doctor details, medical prescriptions, and billing information securely. The system provides RESTful APIs for seamless integration and database management, ensuring a scalable and efficient solution for healthcare institution
